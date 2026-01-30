@@ -1,0 +1,2 @@
+# Moyenne
+Semester average calculator
